@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm rekhachandran</h1>
 <h3 align="center">software developer/software Engineer</h3>
-<img width='500' height='300' src="C:\Users\REKHA YAASH\OneDrive\Desktop\copy.jpg">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rekhachandran&label=Profile%20views&color=0e75b6&style=flat" alt="rekhachandran" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
